@@ -1,0 +1,10 @@
+0 lipstick
+1 mascara
+2 eyelash curler
+3 compact powder
+4 eyeshadow palette
+5 foundation bottle
+6 makeup brush
+7 eyeliner pen
+8 makeup sponge
+9 false eyelashes
